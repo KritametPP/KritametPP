@@ -7,7 +7,7 @@ Fullstack Developer
 As a newcomer to coding with just four months of experience, you've swiftly built a solid foundation in web development, mastering HTML, CSS, Tailwind, and JavaScript to create responsive and interactive interfaces. You've expanded into full-stack development with Node.js and React.js, while also gaining proficiency in MySQL, Figma, and Git for database management, design, and version control. Your understanding of ER Diagrams and commitment to learning have set a strong foundation for your growth as a developer.
 
 * 🌍  I'm based in Thailand, Chiang Rai
-* 🖥️  See my portfolio at [O2O project](http://o2o-project.vercel.app/)
+* 🖥️  See my portfolio at [O2O project](http://o2o-project.vercel.app/) | [XO project]([https://github.com/KritametPP/XOgame])
 * ✉️  You can contact me at [kritamet.p@gmail.com](mailto:kritamet.p@gmail.com)
 
 ### Skills
